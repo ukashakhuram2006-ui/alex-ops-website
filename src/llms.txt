@@ -25,11 +25,14 @@ Control modes may include Recommend, Approve and Auto depending on the workflow 
 - Estimate follow-up: https://www.alexops.tech/hvac-estimate-follow-up
 - Invoice follow-up and collections: https://www.alexops.tech/hvac-invoice-collections
 
-## Practical guides
+## Practical guides and original framework
 
+- HVAC Revenue Leakage Checklist: https://www.alexops.tech/guides/hvac-revenue-leakage-checklist
 - Missed-call process: https://www.alexops.tech/guides/hvac-missed-call-process
 - Estimate follow-up process: https://www.alexops.tech/guides/hvac-estimate-follow-up-process
 - Collections workflow: https://www.alexops.tech/guides/hvac-collections-workflow
+
+The HVAC Revenue Leakage Checklist is the process-audit framework used in the design of Alex Ops. It evaluates whether revenue-critical items have a visible state, an owner, a next action and an exception trigger. It is not presented as an industry benchmark.
 
 ## Audience
 
