@@ -1,0 +1,45 @@
+# Alex Ops
+
+> Alex Ops is an HVAC Revenue Operations platform for independent HVAC contractors. It is designed to help teams keep revenue-critical work visible across the lead-to-cash lifecycle without requiring a rip-and-replace migration of their existing field-service software.
+
+Canonical site: https://www.alexops.tech/
+
+## Core positioning
+
+Alex Ops is not only an AI receptionist or calling agent. The product is positioned as an HVAC Revenue Operations layer focused on operational handoffs where opportunities can stall: missed calls, lead follow-up, appointments, dispatch, open work, unsold estimates, job closeout, receivables, reviews and maintenance opportunities.
+
+Core operating model: Detect -> Decide -> Act.
+Control modes may include Recommend, Approve and Auto depending on the workflow and customer configuration.
+
+## Primary pages
+
+- Homepage: https://www.alexops.tech/
+- About Alex Ops and founder: https://www.alexops.tech/about
+- HVAC Revenue Operations guide: https://www.alexops.tech/hvac-revenue-operations
+- HVAC Revenue Leak Audit: https://www.alexops.tech/hvac-revenue-leak-audit
+- Resource hub: https://www.alexops.tech/resources
+
+## HVAC workflow pages
+
+- Missed-call recovery: https://www.alexops.tech/hvac-missed-call-recovery
+- Estimate follow-up: https://www.alexops.tech/hvac-estimate-follow-up
+- Invoice follow-up and collections: https://www.alexops.tech/hvac-invoice-collections
+
+## Practical guides
+
+- Missed-call process: https://www.alexops.tech/guides/hvac-missed-call-process
+- Estimate follow-up process: https://www.alexops.tech/guides/hvac-estimate-follow-up-process
+- Collections workflow: https://www.alexops.tech/guides/hvac-collections-workflow
+
+## Audience
+
+Primary audience: independent U.S. HVAC contractors and their owners, managers, dispatchers, sales teams and technicians.
+
+## Accuracy notes
+
+Product screenshots may use fictional demo data and are labeled accordingly. Alex Ops does not claim guaranteed revenue, guaranteed bookings, universal software compatibility, or customer outcomes that have not been verified. Integration scope and automation permissions depend on each contractor's systems and configuration.
+
+## Contact
+
+- Email: info@alexops.tech
+- Website: https://www.alexops.tech/
